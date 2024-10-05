@@ -1,0 +1,29 @@
+.home-container {
+    background-image: radial-gradient(#ccc 1px, transparent 1px);
+    background-size: 10px 10px; /* حجم النقاط */
+    height: 100vh; /* تغطية الصفحة بالكامل */
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .col-md-5 {
+    margin-bottom: 20px; /* تقليل المسافة بين النص والصورة */
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  h5 {
+    margin-bottom: 20px;
+  }
+  
